@@ -27,7 +27,7 @@ public class Student {
 				}
 			}
 			if (count == 1) {
-				System.out.println(a[i]);
+				System.out.print(a[i] + " ");
 			}
 		}
 	}
